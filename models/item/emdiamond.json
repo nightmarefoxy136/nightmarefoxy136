@@ -1,0 +1,6 @@
+{
+  "parent": "dragon_mod:custom/sowrd",
+  "textures": {
+    "0": "dragon_mod:blocks/emdiamond"
+  }
+}

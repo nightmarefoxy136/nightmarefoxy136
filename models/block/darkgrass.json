@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragon_mod:blocks/dark0",
+    "up": "dragon_mod:blocks/darktop0",
+    "north": "dragon_mod:blocks/dark0",
+    "east": "dragon_mod:blocks/dark0",
+    "south": "dragon_mod:blocks/dark0",
+    "west": "dragon_mod:blocks/dark0",
+    "particle": "dragon_mod:blocks/dark0"
+  }
+}

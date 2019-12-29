@@ -1,0 +1,8 @@
+{
+  "parent": "dragon_mod:custom/elements",
+  "textures": {
+    "all": "dragon_mod:blocks/screenshot2019-12-08at11.39.07am",
+    "particle": "dragon_mod:blocks/screenshot2019-12-08at11.39.07am",
+    "0": "dragon_mod:blocks/.,"
+  }
+}

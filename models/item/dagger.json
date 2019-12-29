@@ -1,0 +1,6 @@
+{
+  "parent": "dragon_mod:custom/dagger",
+  "textures": {
+    "0": "dragon_mod:blocks/daggertexture"
+  }
+}

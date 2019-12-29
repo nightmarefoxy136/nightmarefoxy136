@@ -1,0 +1,6 @@
+{
+  "parent": "dragon_mod:custom/spear",
+  "textures": {
+    "0": "dragon_mod:blocks/spear"
+  }
+}

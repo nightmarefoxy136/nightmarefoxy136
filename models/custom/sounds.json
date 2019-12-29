@@ -1,0 +1,260 @@
+{
+  "entity.dragon.clang": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/clang/clang",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.clang.aggressive": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/clang/clang_aggressive",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.nightstalker": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/nightstalker/nightstalker",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.nightstalker.aggressive": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/nightstalker/nightstalker_aggressive",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.scalemount": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/scalemount/scalemount",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.scalemount.aggressive": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/scalemount/scalemount_aggressive",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.shard": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/shard/shard",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.shard.aggressive": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/shard/shard_aggressive",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.silva": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/silva/silva",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.silva.aggressive": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/silva/silva_aggressive",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.nightfury": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/nightfury",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.stormcutter": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/stormcutter",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.gronckle": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/gronckle",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.nadder": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/nadder",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.nadder_baby": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/nadder_baby",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.bewilderbeast": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/bewilderbeast",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.wings.heavy": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_heavy_1",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_heavy_2",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_heavy_3",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.wings.medium": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_medium_1",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_medium_2",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_medium_3",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.wings.light": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_light_1",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_light_2",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/wings/wings_light_3",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.walk.light": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_light_1",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_light_2",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_light_3",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_light_4",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.walk.medium": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_medium_1",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_medium_2",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_medium_3",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_medium_4",
+        "stream": false
+      }
+    ]
+  },
+  "entity.dragon.walk.heavy": {
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_heavy_1",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_heavy_2",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_heavy_3",
+        "stream": false
+      },
+      {
+        "name": "dragonfire:entities/dragons/footsteps/walk_heavy_4",
+        "stream": false
+      }
+    ]
+  }
+}

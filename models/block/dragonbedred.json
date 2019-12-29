@@ -1,0 +1,8 @@
+{
+  "parent": "dragon_mod:custom/bed_dragon",
+  "textures": {
+    "all": "dragon_mod:blocks/red",
+    "particle": "dragon_mod:blocks/red",
+    "0": "dragon_mod:blocks/dargonbedred"
+  }
+}

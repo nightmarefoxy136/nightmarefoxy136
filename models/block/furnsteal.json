@@ -1,0 +1,9 @@
+{
+  "parent": "dragon_mod:custom/furnsteal",
+  "textures": {
+    "all": "dragon_mod:blocks/s",
+    "particle": "dragon_mod:blocks/s",
+    "0": "dragon_mod:blocks/steal",
+    "missing": "dragon_mod:blocks/steal2"
+  }
+}

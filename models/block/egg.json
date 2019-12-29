@@ -1,0 +1,7 @@
+{
+  "parent": "dragon_mod:custom/egg_nightfury",
+  "textures": {
+    "all": "dragon_mod:blocks/nadder",
+    "particle": "dragon_mod:blocks/nadder"
+  }
+}

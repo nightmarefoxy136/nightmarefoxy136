@@ -1,0 +1,8 @@
+{
+  "parent": "dragon_mod:custom/nadder_egg0.2",
+  "textures": {
+    "all": "dragon_mod:blocks/nadder",
+    "particle": "dragon_mod:blocks/nadder",
+    "0": "dragon_mod:blocks/deadlynaddertexture"
+  }
+}
